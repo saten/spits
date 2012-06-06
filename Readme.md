@@ -37,3 +37,14 @@ If you prefer to deploy yourself, push this code to a new Heroku app on the Ceda
 
 Enter the URL for your Heroku app into the Website URL section of the Facebook app settings page, then you can visit your app on the web.
 
+CFR:
+
+http://rmagick.rubyforge.org/portfolio.html
+
+https://devcenter.heroku.com/articles/ruby#write_your_app
+
+local_app: 	http://localhost:5000/
+
+http://www.simplesystems.org/RMagick/doc/comtasks.html
+
+http://stackoverflow.com/questions/6339538/creating-a-ruby-file-object-from-magickimage
